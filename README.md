@@ -1,7 +1,7 @@
 # ✈️ Exploria Travels
 
 **Exploria Travels** is a modern, responsive travel website template that helps users explore destinations, view travel packages, and contact the agency with ease.  
-It’s built using clean HTML, CSS, and JavaScript, with a modular structure powered by `base.html` for reusability and consistency across pages.
+It’s built using clean HTML5 struncture, Tailwind CSS, and JavaScript, with a modular structure powered by `base.html` for reusability and consistency across pages.
 
 ---
 
