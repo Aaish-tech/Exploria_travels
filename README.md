@@ -23,4 +23,3 @@ It’s built using clean HTML, CSS, and JavaScript, with a modular structure pow
 | **Tailwind CSS** | Styling, layout, and responsiveness |
 | **JavaScript (ES6)** | Interactivity and dynamic behavior |
 
----
